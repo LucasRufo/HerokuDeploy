@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kXLxu/ynUkt+nEvunG3UWtCZYvCwDVMOKZlw4A3TpAY=",
+  "Source": "HerokuDeploy.API",
+  "BasePath": "_content/HerokuDeploy.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
